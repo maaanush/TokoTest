@@ -1,0 +1,10 @@
+{
+  "fill-padding": {
+    "mode-1": {
+      "px": {
+        "$type": "borderRadius",
+        "$value": "{scales.1}"
+      }
+    }
+  }
+}
